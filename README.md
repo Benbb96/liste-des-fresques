@@ -38,3 +38,23 @@ La Fresque des Nouveaux Récits est un atelier ludique et pédagogique qui abord
 _Créé en 2020_  
 C’est un atelier ludique et pédagogique pour aider et motiver au passage à l’action pour le climat !  
 Grâce à une plateforme web, il permet de se projeter de façon personnalisée (les participants réalisent leur empreinte carbone avant l'atelier et travaillent sur leurs propres données) et d'avoir une approche systémique en incarnant les décideurs nationaux publics et privés, pour arbitrer entre différentes mesures impactant l'ensemble du pays. Le tout sur un ton léger et décomplexé (durant l'atelier, on peut rencontrer Donald Trump, incarner un ministre... ou un dictateur!).
+
+## [Inventons nos vies bas carbone](https://www.resistanceclimatique.org/inventons_nos_vies_bas_carbone)
+<a href="https://www.resistanceclimatique.org/inventons_nos_vies_bas_carbone"><img src="logos/inventons-nos-vies-bas-carbone.png" align="right" width="150" alt="Logo de l'atelier Inventons nos vies bas carbone"></a>
+_Créé en 2019_  
+Ce kit donne à voir les ordres de grandeur (hauteur de la marche) de la transition à opérer : 12 t CO2e => <2 t CO2e, visualiser des tonnes de CO2e avec des cartes simples et efficaces : rouler, voler, manger de la viande, consommer, chauffer un logement, etc.) et tout ce qu'on va pouvoir faire en plus dans une vie bas carbone. Il y a deux lots de cartes : constats pour comprendre comment la physique du climat nous engage (budget carbone...) et solutions pour voir ce qu'on peut et ce qu'on doit changer pour les engagements pris dans l'accord de Paris, traduits dans la loi (SNBC).
+
+## [La Fresque de la Renaissance Écologique](https://www.renaissanceecologique.fr/)
+<a href="https://www.renaissanceecologique.fr/"><img src="logos/fresque-de-la-renaissance-écologique.png" align="right" width="150" alt="Logo de la fresque de la renaissance écologique"></a>
+_Créée en 2014_  
+A quoi ressemble un monde qui a réussi sa transition écologique et comment pourrions-nous y parvenir ? La fresque de la Renaissance Écologique consiste à construire en intelligence collective des projets pour mener une organisation vers la transition écologique, en s'appuyant sur une adaptation contemporaine de la fresque de Lorenzetti Allégorie et effets du Bon Gouvernement : un dessin en noir et blanc qui représente un monde bas carbone, la ville et la campagne. L’atelier s’adapte à des thématiques particulières, des cibles variées et ouvre le champ des possibles.
+
+## [La Fresque de la mobilité](https://fresquedelamobilite.org/)
+<a href="https://fresquedelamobilite.org/"><img src="logos/fresque-de-la-mobilité.png" align="right" width="150" alt="Logo de la fresque de la mobilité"></a>
+_Créée en 2019_  
+Cet atelier est un outil de sensibilisation et de formation aux enjeux et aux solutions de décarbonation de la mobilité des personnes. Il s'adresse au grand public, mais aussi aux entreprises et aux collectivités.
+
+## [Mes Solutions Climat](https://www.littlebigimpact.com/mes-solutions-climat/)
+<a href="https://www.linkedin.com/company/fresque-des-nouveaux-recits/"><img src="" align="right" width="150" alt="Logo de l'atelier Mes solutions climat"></a>
+_Créée en 2020_  
+“Mes Solutions Climat” est un atelier collectif ludique de 2h pour déterminer les écogestes à lancer à votre niveau afin de réduire votre impact carbone et préserver les ressources naturelles. Il peut être utilisé en support de la FdC pour un débrief orienté action.
