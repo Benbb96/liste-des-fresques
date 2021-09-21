@@ -28,7 +28,7 @@ Cet atelier s'adresse aux entreprises, collectivités, associations,... et à to
 _Créée en 2019_  
 La Fresque de la Biodiversité est une inspiration de la Fresque du Climat adapté à la 6ème extinction de masse. Comprendre en 45 cartes la biodiversité, ses services écosystémiques, l'impact de l'espèces humaines, les 5 grandes pressions, les mécanismes d'effondrement et des pistes de solutions !
 
-## [La Fresque des nouveaux récits](https://www.linkedin.com/company/fresque-des-nouveaux-recits/)
+## [La Fresque des Nouveaux Récits](https://www.linkedin.com/company/fresque-des-nouveaux-recits/)
 <a href="https://www.linkedin.com/company/fresque-des-nouveaux-recits/"><img src="logos/fresque-des-nouveaux-récits.png" align="right" width="150" alt="Logo de la fresque des nouveaux récits"></a>
 _Créée en 2020_  
 La Fresque des Nouveaux Récits est un atelier ludique et pédagogique qui aborde le fonctionnement du cerveau et le rôle crucial des nouveaux récits en :
@@ -58,7 +58,7 @@ A quoi ressemble un monde qui a réussi sa transition écologique et comment pou
 _Créée en 2018_  
 La toile du vivant est un outil pédagogique de sensibilisation aux enjeux de l’agroécologie développé par Arnaud Meillarec. Il permet d’appréhender et de s’approprier efficacement les notions complexes liées aux mécanismes du vivant en jeu en agriculture. Toute l’équipe est impliquée dans la résolution d’une problématique commune, où chaque individu peut apporter ses propres connaissances et les confronter à ses coéquipiers.
 
-## [La Fresque de la mobilité](https://fresquedelamobilite.org/)
+## [La Fresque de la Mobilité](https://fresquedelamobilite.org/)
 <a href="https://fresquedelamobilite.org/"><img src="logos/fresque-de-la-mobilité.png" align="right" width="150" alt="Logo de la fresque de la mobilité"></a>
 _Créée en 2019_  
 Cet atelier est un outil de sensibilisation et de formation aux enjeux et aux solutions de décarbonation de la mobilité des personnes. Il s'adresse au grand public, mais aussi aux entreprises et aux collectivités.
