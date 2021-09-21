@@ -53,6 +53,11 @@ Ce kit donne à voir les ordres de grandeur (hauteur de la marche) de la transit
 _Créée en 2014_  
 A quoi ressemble un monde qui a réussi sa transition écologique et comment pourrions-nous y parvenir ? La fresque de la Renaissance Écologique consiste à construire en intelligence collective des projets pour mener une organisation vers la transition écologique, en s'appuyant sur une adaptation contemporaine de la fresque de Lorenzetti Allégorie et effets du Bon Gouvernement : un dessin en noir et blanc qui représente un monde bas carbone, la ville et la campagne. L’atelier s’adapte à des thématiques particulières, des cibles variées et ouvre le champ des possibles.
 
+## [La Toile du Vivant](http://www.territoires-vivants.fr/la-toile-du-vivant/)
+<a href="http://www.territoires-vivants.fr/la-toile-du-vivant/"><img src="logos/toile-du-vivant.jpg" align="right" width="150" alt="Logo de la toile du vivant"></a>
+_Créée en 2018_  
+La toile du vivant est un outil pédagogique de sensibilisation aux enjeux de l’agroécologie développé par Arnaud Meillarec. Il permet d’appréhender et de s’approprier efficacement les notions complexes liées aux mécanismes du vivant en jeu en agriculture. Toute l’équipe est impliquée dans la résolution d’une problématique commune, où chaque individu peut apporter ses propres connaissances et les confronter à ses coéquipiers.
+
 ## [La Fresque de la mobilité](https://fresquedelamobilite.org/)
 <a href="https://fresquedelamobilite.org/"><img src="logos/fresque-de-la-mobilité.png" align="right" width="150" alt="Logo de la fresque de la mobilité"></a>
 _Créée en 2019_  
