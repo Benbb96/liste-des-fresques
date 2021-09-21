@@ -31,7 +31,11 @@ La Fresque de la Biodiversité est une inspiration de la Fresque du Climat adapt
 ## [La Fresque des nouveaux récits](https://www.linkedin.com/company/fresque-des-nouveaux-recits/)
 <a href="https://www.linkedin.com/company/fresque-des-nouveaux-recits/"><img src="logos/fresque-des-nouveaux-récits.png" align="right" width="150" alt="Logo de la fresque des nouveaux récits"></a>
 _Créée en 2020_  
-La Fresque des Nouveaux Récits est un atelier ludique et pédagogique qui aborde le fonctionnement du cerveau et le rôle crucial des nouveaux récits.
+La Fresque des Nouveaux Récits est un atelier ludique et pédagogique qui aborde le fonctionnement du cerveau et le rôle crucial des nouveaux récits en :
+
+1. Étudiant les verrous sociaux-cognitifs à la nécessaire transition ("_le savoir c'est le pouvoir_" - Francis Bacon)
+2. Se reliant collectivement à notre pouvoir créateur
+3. Partageant les nouveaux récits à travers le monde
 
 ## [Atelier 2 tonnes](https://www.linkedin.com/company/2tonnes/)
 <a href="https://www.linkedin.com/company/2tonnes/"><img src="logos/atelier-2-tonnes.png" align="right" width="150" alt="Logo de l'atelier 2 tonnes"></a>
@@ -59,17 +63,17 @@ Cet atelier est un outil de sensibilisation et de formation aux enjeux et aux so
 _Créée en 2020_  
 “Mes Solutions Climat” est un atelier collectif ludique de 2h pour déterminer les écogestes à lancer à votre niveau afin de réduire votre impact carbone et préserver les ressources naturelles. Il peut être utilisé en support de la FdC pour un débrief orienté action.
 
-## [La Fresque des Déchets](https://greendonut.org/)
-<a href="https://greendonut.org/"><img src="" align="right" width="150" alt="Logo de la fresque des déchets"></a>
-_Créée en 2020_  
-"La Fresque des Déchets" est un atelier basé sur l'intelligence collective et la coopération invitant les participants à schématiser le devenir de leurs déchets et à approfondir les impacts de leurs habitudes de consommation. Il permet de prendre conscience de notre consommation de ressources au quotidien au travers le prisme des déchets tout en sensibilisant sur les bonnes pratiques de tri et surtout de prévention.
-
 ## [La Fresque de l'Alimentation](http://fresquealimentation.org/)
 <a href="http://fresquealimentation.org/"><img src="logos/fresque-alimentation.jpg" align="right" width="150" alt="Logo de la fresque de l'alimentation"></a>
 _Créée en 2020_  
 Comprendre les grandes lignes de notre alimentation et les impacts environnementaux, sanitaires et sociaux qu'elle engendre.  
 Puis définir ce qu'est une alimentation durable (végétalisée, locale et en agriculture bio).  
 Comprendre en quoi une alimentation durable améliore la résilience alimentaire.
+
+## [La Fresque des Déchets](https://greendonut.org/)
+<a href="https://greendonut.org/"><img src="" align="right" width="150" alt="Logo de la fresque des déchets"></a>
+_Créée en 2020_  
+"La Fresque des Déchets" est un atelier basé sur l'intelligence collective et la coopération invitant les participants à schématiser le devenir de leurs déchets et à approfondir les impacts de leurs habitudes de consommation. Il permet de prendre conscience de notre consommation de ressources au quotidien au travers le prisme des déchets tout en sensibilisant sur les bonnes pratiques de tri et surtout de prévention.
 
 ## [La Fresque des Low-Techs](https://fresquedeslowtechs.org/)
 <a href="https://fresquedeslowtechs.org/"><img src="logos/fresque-lows-techs.png" align="right" width="150" alt="Logo de la fresque des lows-techs"></a>
