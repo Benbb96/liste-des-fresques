@@ -60,6 +60,13 @@ _Créée en 2020_
 “Mes Solutions Climat” est un atelier collectif ludique de 2h pour déterminer les écogestes à lancer à votre niveau afin de réduire votre impact carbone et préserver les ressources naturelles. Il peut être utilisé en support de la FdC pour un débrief orienté action.
 
 ## [La Fresque des Déchets](https://greendonut.org/)
-<a href="https://www.linkedin.com/company/fresque-des-nouveaux-recits/"><img src="" align="right" width="150" alt="Logo de la fresque des déchets"></a>
+<a href="https://greendonut.org/"><img src="" align="right" width="150" alt="Logo de la fresque des déchets"></a>
 _Créée en 2020_  
 "La Fresque des Déchets" est un atelier basé sur l'intelligence collective et la coopération invitant les participants à schématiser le devenir de leurs déchets et à approfondir les impacts de leurs habitudes de consommation. Il permet de prendre conscience de notre consommation de ressources au quotidien au travers le prisme des déchets tout en sensibilisant sur les bonnes pratiques de tri et surtout de prévention.
+
+## [La Fresque de l'Alimentation](http://fresquealimentation.org/)
+<a href="http://fresquealimentation.org/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFWNnSnKUvvCA/company-logo_200_200/0/1611648602063?e=2159024400&v=beta&t=nYG5EGBOpKTD5sBKgo75E_-A8U5qnka0TKURSL5JDLc" align="right" width="150" alt="Logo de la fresque de l'alimentation"></a>
+_Créée en 2020_  
+Comprendre les grandes lignes de notre alimentation et les impacts environnementaux, sanitaires et sociaux qu'elle engendre.  
+Puis définir ce qu'est une alimentation durable (végétalisée, locale et en agriculture bio).  
+Comprendre en quoi une alimentation durable améliore la résilience alimentaire.
