@@ -55,6 +55,11 @@ _Créée en 2019_
 Cet atelier est un outil de sensibilisation et de formation aux enjeux et aux solutions de décarbonation de la mobilité des personnes. Il s'adresse au grand public, mais aussi aux entreprises et aux collectivités.
 
 ## [Mes Solutions Climat](https://www.littlebigimpact.com/mes-solutions-climat/)
-<a href="https://www.linkedin.com/company/fresque-des-nouveaux-recits/"><img src="" align="right" width="150" alt="Logo de l'atelier Mes solutions climat"></a>
+<a href="https://www.littlebigimpact.com/mes-solutions-climat/"><img src="" align="right" width="150" alt="Logo de l'atelier Mes solutions climat"></a>
 _Créée en 2020_  
 “Mes Solutions Climat” est un atelier collectif ludique de 2h pour déterminer les écogestes à lancer à votre niveau afin de réduire votre impact carbone et préserver les ressources naturelles. Il peut être utilisé en support de la FdC pour un débrief orienté action.
+
+## [La Fresque des Déchets](https://greendonut.org/)
+<a href="https://www.linkedin.com/company/fresque-des-nouveaux-recits/"><img src="" align="right" width="150" alt="Logo de la fresque des déchets"></a>
+_Créée en 2020_  
+"La Fresque des Déchets" est un atelier basé sur l'intelligence collective et la coopération invitant les participants à schématiser le devenir de leurs déchets et à approfondir les impacts de leurs habitudes de consommation. Il permet de prendre conscience de notre consommation de ressources au quotidien au travers le prisme des déchets tout en sensibilisant sur les bonnes pratiques de tri et surtout de prévention.
