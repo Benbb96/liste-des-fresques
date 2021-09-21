@@ -23,7 +23,7 @@ La Fresque Océane est un atelier collaboratif pour sensibiliser à la protectio
 Grâce à 100 cartes, devinez les services écosystémiques de l'Océan, plongez-vous dans la biodiversité marine, mais aussi découvrez les impact des activités humaines comme la pêche, les industries maritimes, le dérèglement climatique ou encore la pollution. Et bien sûr, échangez sur les solutions !  
 Cet atelier s'adresse aux entreprises, collectivités, associations,... et à tous les citoyens qui veulent en savoir plus sur cet écosystème !
 
-## [La Fresque de la biodiversité](https://www.linkedin.com/company/fresquedelabiodiversit%C3%A9)
+## [La Fresque de la Biodiversité](https://www.linkedin.com/company/fresquedelabiodiversit%C3%A9)
 <a href="https://www.linkedin.com/company/fresquedelabiodiversit%C3%A9"><img src="logos/fresque-de-la-biodiversité.png" align="right" width="150" alt="Logo de la fresque de la biodiversité"></a>
 _Créée en 2019_  
 La Fresque de la Biodiversité est une inspiration de la Fresque du Climat adapté à la 6ème extinction de masse. Comprendre en 45 cartes la biodiversité, ses services écosystémiques, l'impact de l'espèces humaines, les 5 grandes pressions, les mécanismes d'effondrement et des pistes de solutions !
@@ -65,8 +65,13 @@ _Créée en 2020_
 "La Fresque des Déchets" est un atelier basé sur l'intelligence collective et la coopération invitant les participants à schématiser le devenir de leurs déchets et à approfondir les impacts de leurs habitudes de consommation. Il permet de prendre conscience de notre consommation de ressources au quotidien au travers le prisme des déchets tout en sensibilisant sur les bonnes pratiques de tri et surtout de prévention.
 
 ## [La Fresque de l'Alimentation](http://fresquealimentation.org/)
-<a href="http://fresquealimentation.org/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFWNnSnKUvvCA/company-logo_200_200/0/1611648602063?e=2159024400&v=beta&t=nYG5EGBOpKTD5sBKgo75E_-A8U5qnka0TKURSL5JDLc" align="right" width="150" alt="Logo de la fresque de l'alimentation"></a>
+<a href="http://fresquealimentation.org/"><img src="logos/fresque-alimentation.jpg" align="right" width="150" alt="Logo de la fresque de l'alimentation"></a>
 _Créée en 2020_  
 Comprendre les grandes lignes de notre alimentation et les impacts environnementaux, sanitaires et sociaux qu'elle engendre.  
 Puis définir ce qu'est une alimentation durable (végétalisée, locale et en agriculture bio).  
 Comprendre en quoi une alimentation durable améliore la résilience alimentaire.
+
+## [La Fresque des Low-Techs](https://fresquedeslowtechs.org/)
+<a href="https://fresquedeslowtechs.org/"><img src="logos/fresque-lows-techs.png" align="right" width="150" alt="Logo de la fresque des lows-techs"></a>
+_Créée en 2021_  
+(non)soutenabillité des technologies au point de vue environnemental et social, d'un point de vue économique et général, et solution low-tech.
