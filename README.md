@@ -2,7 +2,7 @@
 
 Après avoir constaté l’incroyable efficacité de la méthode pédagogique de la [Fresque du climat](https://fresqueduclimat.org/), certains membres de la communauté s’en sont inspirés pour développer d’autres Fresques sur des sujets transverses au **changement climatique**.
 
-Vous retrouverez donc sur cette page un inventaire de ces fabuleux outils.  
+Vous retrouverez donc sur cette page un inventaire de ces fabuleux outils que j'ai compilé à l'aide de [ce document](https://docs.google.com/spreadsheets/d/1K3h4ELFU_dJIR0kxQbWFna__zOLKom77/).  
 N'hésitez pas à ouvrir à [créer une issue](https://github.com/Benbb96/liste-des-fresques/issues) ou faire une PR pour en ajouter de nouvelles !
 
 ## [La Fresque du Climat](https://fresqueduclimat.org/)
@@ -63,10 +63,10 @@ La toile du vivant est un outil pédagogique de sensibilisation aux enjeux de l�
 _Créée en 2019_  
 Cet atelier est un outil de sensibilisation et de formation aux enjeux et aux solutions de décarbonation de la mobilité des personnes. Il s'adresse au grand public, mais aussi aux entreprises et aux collectivités.
 
-## [Mes Solutions Climat](https://www.littlebigimpact.com/mes-solutions-climat/)
-<a href="https://www.littlebigimpact.com/mes-solutions-climat/"><img src="" align="right" width="150" alt="Logo de l'atelier Mes solutions climat"></a>
+## [Little Big Impact](https://www.littlebigimpact.com/)
+<a href="https://www.littlebigimpact.com/"><img src="logos/little-big-impact.jpg" align="right" width="150" alt="Logo de l'atelier Mes solutions climat"></a>
 _Créée en 2020_  
-“Mes Solutions Climat” est un atelier collectif ludique de 2h pour déterminer les écogestes à lancer à votre niveau afin de réduire votre impact carbone et préserver les ressources naturelles. Il peut être utilisé en support de la FdC pour un débrief orienté action.
+Anciennement “Mes Solutions Climat”, l'éco challenge Little Big Impact est un atelier collectif ludique de 2h pour déterminer les écogestes à lancer à votre niveau afin de réduire votre impact carbone et préserver les ressources naturelles. Il peut être utilisé en support de la FdC pour un débrief orienté action.
 
 ## [La Fresque de l'Alimentation](http://fresquealimentation.org/)
 <a href="http://fresquealimentation.org/"><img src="logos/fresque-alimentation.jpg" align="right" width="150" alt="Logo de la fresque de l'alimentation"></a>
@@ -75,8 +75,8 @@ Comprendre les grandes lignes de notre alimentation et les impacts environnement
 Puis définir ce qu'est une alimentation durable (végétalisée, locale et en agriculture bio).  
 Comprendre en quoi une alimentation durable améliore la résilience alimentaire.
 
-## [La Fresque des Déchets](https://greendonut.org/)
-<a href="https://greendonut.org/"><img src="" align="right" width="150" alt="Logo de la fresque des déchets"></a>
+## [La Fresque des Déchets](https://greendonut.org/dechets/)
+<a href="https://greendonut.org/dechets/"><img src="logos/fresque-des-dechets.jpeg" align="right" width="150" alt="Logo de la fresque des déchets"></a>
 _Créée en 2020_  
 "La Fresque des Déchets" est un atelier basé sur l'intelligence collective et la coopération invitant les participants à schématiser le devenir de leurs déchets et à approfondir les impacts de leurs habitudes de consommation. Il permet de prendre conscience de notre consommation de ressources au quotidien au travers le prisme des déchets tout en sensibilisant sur les bonnes pratiques de tri et surtout de prévention.
 
@@ -86,4 +86,4 @@ _Créée en 2021_
 (non)soutenabillité des technologies au point de vue environnemental et social, d'un point de vue économique et général, et solution low-tech.
 
 # Source
-Voir ce fichier pour plus de fresques (dont certaines encore en construction) : https://docs.google.com/spreadsheets/d/1K3h4ELFU_dJIR0kxQbWFna__zOLKom77/
+Voir [ce document Google Sheet tenu à jour par la communauté](https://docs.google.com/spreadsheets/d/1K3h4ELFU_dJIR0kxQbWFna__zOLKom77/) pour plus de fresques (dont certaines encore en construction).
