@@ -3,7 +3,7 @@
 Après avoir constaté l’incroyable efficacité de la méthode pédagogique de la [Fresque du climat](https://fresqueduclimat.org/), certains membres de la communauté s’en sont inspirés pour développer d’autres Fresques sur des sujets transverses au **changement climatique**.
 
 Vous retrouverez donc sur cette page un inventaire de ces fabuleux outils que j'ai compilé à l'aide de [ce document](https://docs.google.com/spreadsheets/d/1K3h4ELFU_dJIR0kxQbWFna__zOLKom77/).  
-N'hésitez pas à ouvrir à [créer une issue](https://github.com/Benbb96/liste-des-fresques/issues) ou faire une PR pour en ajouter de nouvelles !
+N'hésitez pas à [ouvrir une issue](https://github.com/Benbb96/liste-des-fresques/issues) ou à faire une PR pour en ajouter de nouvelles !
 
 ## [La Fresque du Climat](https://fresqueduclimat.org/)
 <a href="https://fresqueduclimat.org/"><img src="logos/fresque-du-climat.png" align="right" width="150" alt="Logo de la fresque du climat"></a>
