@@ -91,5 +91,8 @@ _Créée en 2022_
 La fresque du sol est un outil ludique et collaboratif qui vise à diffuser un langage commun sur le fonctionnement des sols, et sur les enjeux liés à leur préservation.  
 Au travers de 50 cartes et en 3h, permet de comprendre ce qu’est un sol, comment celui-ci se forme et quelles fonctions écologiques découlent de ses propriétés pour ensuite découvrir l’ensemble des services que l’on en retire, les menaces qui rendent ces services limités dans le temps et l’espace et les actions que l’on peut engager pour préserver le fonctionnement des sols…
 
-# Source
-Voir [ce document Google Sheet tenu à jour par la communauté](https://docs.google.com/spreadsheets/d/1K3h4ELFU_dJIR0kxQbWFna__zOLKom77/) pour plus de fresques (dont certaines encore en construction).
+# Ressources
+- [Document Google Sheet](https://docs.google.com/spreadsheets/d/1K3h4ELFU_dJIR0kxQbWFna__zOLKom77/) tenu à jour par la communauté (avec celles qui sont encore en construction)
+- [Page wiki référençant les fresques amies](https://wiki.climatefresk.org/?title=Les_fresques_amies)
+- [Une fresque des fresques !](https://view.genial.ly/6087d1e2b7f1070d38edd485/interactive-content-les-fresques-amies-version-logo)
+- [Outil Open Source](https://github.com/trouver-une-fresque/trouver-une-fresque) pour détecter les ateliers disponibles dans votre département
