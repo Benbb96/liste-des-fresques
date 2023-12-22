@@ -80,6 +80,11 @@ Comprendre en quoi une alimentation durable améliore la résilience alimentaire
 _Créée en 2020_  
 "La Fresque des Déchets" est un atelier basé sur l'intelligence collective et la coopération invitant les participants à schématiser le devenir de leurs déchets et à approfondir les impacts de leurs habitudes de consommation. Il permet de prendre conscience de notre consommation de ressources au quotidien au travers le prisme des déchets tout en sensibilisant sur les bonnes pratiques de tri et surtout de prévention.
 
+## [La Fresque du Textile](https://greendonut.org/textile/)
+<a href="https://greendonut.org/textile/"><img src="logos/fresque-du-textile.jpg" align="right" width="150" alt="Logo de la fresque du textile"></a>
+_Créée en 2020_  
+Par le même créateur que la Fresque des Déchets (l'association Green Donut), la Fresque du textile se focalise sur l'industrie du textile, de la production à la fin de vie en passant par le cycle d'usage. Il permet de prendre conscience des impacts environnementaux et sociaux de ce secteur tout en sensibilisant sur les bonnes pratiques de choix et d'utilisation du textile.
+
 ## [La Fresque des Low-Techs](https://fresquedeslowtechs.org/)
 <a href="https://fresquedeslowtechs.org/"><img src="logos/fresque-lows-techs.png" align="right" width="150" alt="Logo de la fresque des lows-techs"></a>
 _Créée en 2021_  
