@@ -2,7 +2,7 @@
 
 Après avoir constaté l’incroyable efficacité de la méthode pédagogique de la [Fresque du climat](https://fresqueduclimat.org/), certains membres de la communauté s’en sont inspirés pour développer d’autres Fresques sur des sujets transverses au **changement climatique**.
 
-Vous retrouverez donc ici un inventaire non exhaustif de ces fabuleux outils que j'ai compilé à l'aide de [tableur](https://docs.google.com/spreadsheets/d/1K3h4ELFU_dJIR0kxQbWFna__zOLKom77/).  
+Vous retrouverez donc ici un inventaire non exhaustif de ces fabuleux outils que j'ai compilé à l'aide de ce [tableur](https://docs.google.com/spreadsheets/d/1K3h4ELFU_dJIR0kxQbWFna__zOLKom77/).  
 N'hésitez pas à [ouvrir une issue](https://github.com/Benbb96/liste-des-fresques/issues/new) ou à faire une Pull Request ([tuto en anglais](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)) pour en ajouter de nouvelles !
 
 ## [La Fresque du Climat](https://fresqueduclimat.org/)
