@@ -98,11 +98,11 @@ Au travers de 50 cartes et en 3h, permet de comprendre ce qu’est un sol, comme
 
 ## [La Fresque du Bénévolat](https://www.jeveuxaider.gouv.fr/fresque-benevolat)
 <a href="https://www.jeveuxaider.gouv.fr/fresque-benevolat/"><img src="https://i.ibb.co/ynctWtP/Fresque-Whatsapp-4-1.png" align="right" width="150" alt="Logo de la fresque du bénévolat"></a>
-_Créée en 2023_ 
-La Fresque du Bénévolat est un atelier participatif et ludique, conçu pour faciliter le passage à l’action bénévole. 
-Pendant 2h30, des groupes de 8 à 15 participants suivent un parcours sur le thème de la randonnée, alliant intelligence collective et introspection. Ensemble, ils avancent à travers trois étapes : comprendre et définir le bénévolat, identifier ses propres freins et ses motivations, puis découvrir les leviers et outils concrets pour passer à l’action.
-À l’issue de l’atelier, chaque participant repart avec un "guide de rando" pratique pour faciliter son premier pas vers le bénévolat. Un site web dédié, “La Fresque du Bénévolat,” permet de trouver une fresque près de chez soi, d’accéder aux ressources et de mesurer l'impact de l'atelier sur l’engagement des participants.
-La fresque du bénévolat a été créée par la start-up d’Etat JeVeuxAider.gouv.fr, au sein de la DJEPVA (Direction de la jeunesse, de l'éducation populaire et de la vie associative).…
+_Créée en 2023_  
+La Fresque du Bénévolat est un atelier participatif et ludique, conçu pour faciliter le passage à l’action bénévole.  
+Pendant 2h30, des groupes de 8 à 15 participants suivent un parcours sur le thème de la randonnée, alliant intelligence collective et introspection. Ensemble, ils avancent à travers trois étapes : comprendre et définir le bénévolat, identifier ses propres freins et ses motivations, puis découvrir les leviers et outils concrets pour passer à l’action.  
+À l’issue de l’atelier, chaque participant repart avec un "guide de rando" pratique pour faciliter son premier pas vers le bénévolat. Un site web dédié, “La Fresque du Bénévolat,” permet de trouver une fresque près de chez soi, d’accéder aux ressources et de mesurer l'impact de l'atelier sur l’engagement des participants.  
+La fresque du bénévolat a été créée par la start-up d’Etat JeVeuxAider.gouv.fr, au sein de la DJEPVA (Direction de la jeunesse, de l'éducation populaire et de la vie associative).
 
 # Ressources
 - [Document Google Sheet](https://docs.google.com/spreadsheets/d/1q_9L9U8Gn6qX7Wgcu7sAwo9fnUcbeSGHJGYqm_1nHs0/edit?usp=sharing) tenu à jour par la communauté (avec celles qui sont encore en construction)
